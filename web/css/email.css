@@ -1,0 +1,46 @@
+.all_wrapper
+{
+	background-image: url(tv.romanra.xyz/images/site/warm-amber-patterns-2.jpg);
+	background-repeat:repeat;
+	height: 100%;
+	width: 100%; 
+	dispaly:inline-block;
+}
+.wrapper
+{
+	
+	height: 400px;
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+.logo
+{
+
+ margin-bottom: 10px;
+ margin-left: auto;
+ margin-right: auto;
+ width:500px;
+ height:178px;
+}
+.tv_item_active
+{
+border: 10px solid orange;
+border-radius: 10px;
+ margin-left: auto; /* Отступ слева */
+ margin-right: auto; /* Отступ справа */
+float: left;
+}
+.tv_item_text
+{
+ background-color: white;
+ font-size: 20px;
+ text-align: center;
+
+}
+.name
+{
+	font-weight: bold;
+	color: orange;
+}
